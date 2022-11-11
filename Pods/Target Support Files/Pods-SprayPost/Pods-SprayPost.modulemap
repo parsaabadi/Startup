@@ -1,0 +1,6 @@
+framework module Pods_SprayPost {
+  umbrella header "Pods-SprayPost-umbrella.h"
+
+  export *
+  module * { export * }
+}
